@@ -1,0 +1,12 @@
+{
+    "name": "Contador App React",
+    "short_name": " Contador React",
+    "description": "Contador app hecha con React para el curso",
+    "background_color": "#333333",
+    "theme_color": "#333333",
+    "start_url": "./",
+    "scope": "./",
+    "lang": "es-MX",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
